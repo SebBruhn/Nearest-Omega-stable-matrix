@@ -11,7 +11,7 @@ end
 
 # ╔═╡ 8eee5ab7-3f58-4350-a9d7-0fe27ddb3389
 #Setting the path to call the matlabfunction generate_types_and_starting_point, s.t. Noferini and Poloni's MATLAB file share the same random Matrix A and starting point x0 ∈ U(n).
-mat"addpath(cd('/home/sebastian/Documents/MasterThesis_code/Masterthesis-Sebastian-Jensen/MATLAB_Noferini'))"
+mat"addpath(cd('/home/mypath'))"
 
 # ╔═╡ 48021921-8930-49e9-bf3e-e86f2d7fcf0c
 n=10
